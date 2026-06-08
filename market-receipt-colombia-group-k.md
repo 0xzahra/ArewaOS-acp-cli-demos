@@ -5,7 +5,8 @@
 **Chain:** Base
 **Runtime:** OpenClaw → Hermes (v2)
 
----
+**source_scope:** external-prediction-market-signal
+**Note:** This receipt uses Polymarket and sportsbook data. It is an ACP market-receipt example, not a Chef Universe Bazaar Challenge submission. See market-receipt-chefuniverse-acp-jobs.md for a Bazaar-native receipt.
 
 ## Signal: Colombia to Win Group K — FIFA World Cup 2026
 
